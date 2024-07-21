@@ -1,0 +1,9 @@
+messages:
+  set-success: "【TPoint】传送点设置成功"
+  tp-success: "【TPoint】正在将你传送到 %x - %y - %z"
+  del-success: "【TPoint】传送点设置失败"
+  no-permission: "【TPoint】传送失败 权限不足"
+  no-point: "【TPoint】传送点不存在"
+#传送等待时间 单位秒
+tp-delay: 0
+delay-message: "【TPoint】传送中..."
